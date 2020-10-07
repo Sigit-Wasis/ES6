@@ -14,3 +14,11 @@ Ini adalah beberapa fitur dari ES6 :
 6. Array Function : find() and findIndex()
 7. Classes
 8. Promise
+dan banyak lagi lainnya
+
+### Babel 
+
+Babel merupakan plugin Javascript compiler yang bisa mengubah kode yang ditulis menggunakan ES6 menjadi kode yang bisa berjalan pada browser yang tidak atau belum mendukung ES6.
+* Link : https://bit.ly/36H0tRC *
+
+*** Salam Koding ***
